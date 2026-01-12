@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "4baa2aae638a0683",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a4351ce824195c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d356500943f6615d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f54cb0a736f884f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee6b8e1f3ff9e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deaa0df0833b0715",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "cfb6e758ce0f6b29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "18464e1f837a22da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0664195a7cfcfa11",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50c5be50ec70dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e589ac6f05006d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "2f3625097009bac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "39266b4b0404abd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "e666a93e7c90abb4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "7cd1a9e40728552e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "cd07224eba58c26e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 611.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cd07224eba58c26e",
+  "lastOpenFiles": [
+    "README.md",
+    "무제.base",
+    "무제 1.base",
+    "무제 1.canvas",
+    "무제.canvas",
+    "00-Home/Getting Started.md",
+    "03-Data-Models/Community.md",
+    "00-Textbook-Structure/00-GraphRAG-Textbook-Outline.md",
+    "05-Configuration/Storage Configuration.md",
+    "05-Configuration/Model Configuration.md",
+    "05-Configuration/Configuration Reference.md",
+    "00-Textbook-Structure/Textbook - System Architecture.md",
+    "00-Textbook-Structure/Textbook - Community Summarization.md",
+    "00-Textbook-Structure/Textbook - Text Units and Chunking.md",
+    "00-Textbook-Structure/Textbook - Community Detection.md",
+    "00-Textbook-Structure/Textbook - Relationship Extraction.md",
+    "00-Textbook-Structure/Textbook - Entity Extraction.md",
+    "00-Textbook-Structure/Textbook - LLMs and RAG.md",
+    "00-Textbook-Structure/Textbook - NLP Basics.md",
+    "00-Textbook-Structure/Textbook - Graph Theory Fundamentals.md",
+    "00-Textbook-Structure/Textbook - Introduction to GraphRAG.md",
+    "00-Textbook-Structure/System Architecture.md",
+    "00-Textbook-Structure/Community Summarization.md",
+    "00-Textbook-Structure/Text Units and Chunking.md",
+    "00-Textbook-Structure/Community Detection.md",
+    "00-Textbook-Structure/Relationship Extraction.md",
+    "00-Textbook-Structure/Entity Extraction.md",
+    "00-Textbook-Structure/LLMs and RAG.md",
+    "00-Textbook-Structure/NLP Basics.md",
+    "00-Textbook-Structure/Graph Theory Fundamentals.md",
+    "02-Modules/Language Model Module.md.tmp.44472.1768232489156"
+  ]
+}
